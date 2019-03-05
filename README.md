@@ -1,6 +1,7 @@
 A simple shell script that changes your MAC address. 
 
 NOTE: 
+
 A). This script must be run as root in order to change your MAC address. It will fail otherwise. (Inspect the code before you do so, to make sure everything is intact)
 
 B). You must provide the name of your internet device as a command-line argument to change its MAC address. 
