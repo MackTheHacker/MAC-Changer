@@ -6,5 +6,5 @@ A). This script must be run as root in order to change your MAC address. It will
 
 B). You must provide the name of your internet device as a command-line argument to change its MAC address. 
 
-C). You must have GNU mac changer installed (you can install it with your package manager. On Ubuntu, you would do "apt install macchanger")
+C). You must have GNU mac changer installed (you can install it with your package manager. On Ubuntu, you would do "apt install macchanger"). If you do not wish to install it, you can run the "mac-ifconfig-only" shell script instead. 
 
